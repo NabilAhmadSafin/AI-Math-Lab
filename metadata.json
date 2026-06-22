@@ -1,0 +1,6 @@
+{
+  "name": "AI Math Lab",
+  "description": "A full-stack AI-assisted mathematics proving system blending GPT, Gemini, and formalized verification loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
